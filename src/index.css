@@ -1,0 +1,8 @@
+body {
+  background-color: transparent;
+  background-attachment: fixed;
+  background-size: cover;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
